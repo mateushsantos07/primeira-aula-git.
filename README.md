@@ -9,5 +9,3 @@ aula01.js
 Esse é um projeto de teste dos nossos primeiros códigos.
 
 aula02.js
-
-.
